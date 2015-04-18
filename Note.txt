@@ -1,0 +1,7 @@
+When constructing the plots for this assignment we were asked to save them to a png file with a width of 480 pixels
+and a height of 480 pixels. By typing the command line for help on the png function: ?png, I observed that the default 
+values for these arguments were as follows:
+
+width = 480, height = 480, units = "px", .....
+
+Since these values are set as default in R, it is clear that it was not neccesary to specify them in this case.
